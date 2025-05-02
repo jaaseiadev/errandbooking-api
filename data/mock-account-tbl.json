@@ -1,1 +1,30 @@
-{} 
+{
+    "lebronjames1": {
+        "id": "cf334971-1c82-5ed5-a86b-f87f549f3b61",
+        "fullName": "Lebrong James",
+        "hash": "$2b$12$karA/jlXQAy0VqEqGsJiHeFeXkKwYsG3UESi4BVVsD7PHFjyitHQy",
+        "userLevel": 0,
+        "createdAt": 1746169351
+    },
+    "lukadoncic2": {
+        "id": "ab70320e-9386-5f1e-b8d3-4a6b98974c93",
+        "fullName": "Luka Managbanag Doncic",
+        "hash": "$2b$12$/etZr18.Ph6/VrPY3dp5ceqPSaYOTLDGtr4VEZ4VV.3dKsojB8Xwm",
+        "userLevel": 1,
+        "createdAt": 1746169397
+    },
+    "austinreeves3": {
+        "id": "fd4b4e63-e59d-59ce-8ce3-fe1539239da6",
+        "fullName": "Austin Roa Reeves",
+        "hash": "$2b$12$41o4yobCqcw5ray3JvolUujL/tDqlHXPk6amWu/GJ0EXtb/LmXnqW",
+        "userLevel": 2,
+        "createdAt": 1746169427
+    },
+    "bronnyjames4": {
+        "id": "f423dc4e-2866-50b3-9406-133a97a0cf35",
+        "fullName": "Bronny Awra James",
+        "hash": "$2b$12$CUJQwMh6VwN4mIg/fCHCm.KfRrGiwGUEIvGbJdqMZAZhKENV61RS6",
+        "userLevel": 3,
+        "createdAt": 1746169448
+    }
+}
