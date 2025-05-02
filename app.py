@@ -58,9 +58,9 @@ def get_contents():
 def page_not_found(e):
     return set_cors({"message": "Page not found."})
 
-##################
+#################
 # utils #
-##################
+#################
 
 def authorize_user(uname, pw):
     """ Authenticate user login. """
